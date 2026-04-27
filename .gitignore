@@ -1,0 +1,42 @@
+# Environment variables and local config
+.env
+.env.*
+!.env.example
+.codex
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Generated datasets and experiment outputs
+
+output/
+outputs/
+results/
+*.jsonl
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# IDE/editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
