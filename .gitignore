@@ -28,7 +28,7 @@ dist/
 output/
 outputs/
 results/
-*.jsonl
+
 
 # Jupyter/IPython
 .ipynb_checkpoints/
@@ -40,3 +40,5 @@ results/
 *.swo
 .DS_Store
 Thumbs.db
+
+data/

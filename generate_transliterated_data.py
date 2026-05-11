@@ -27,7 +27,7 @@ if __name__ == "__main__":
         prompt = f"""transliterate all {language} scripts to romanized script the following:\n{text}\n\nWrite only the final text after transliteration."""
 
         completion = client.chat.completions.parse(
-            model="gpt-5.2",
+            model="gpt-5.4-mini-2026-03-17",
             reasoning_effort="low",
             messages=[
                 {"role": "developer", "content": "You are a multilingual speaker."},
