@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "label": "D",
+    "en_question": "Which of the 다음 설명 concerning 소멸시효 is correct? (If there is a 다툼, follow the 판례.)",
+    "en_A": "A claim for 손해배상 arising from nonperformance of 채무불이행 does not 소멸 together with the original 채권 even if the original claim is 소멸 by 시효.",
+    "en_B": "The 청구 concerning work by a 사람 who has undertaken a 계약, to which the 3년 short-term 소멸시효 applies, means only the 청구 for the 가격 of the work, and the contractor’s 청구 for the establishment of a 저당권, as a 청구 incidental to that work, does not fall under a 청구 concerning the work of a 사람 who has undertaken a 계약.",
+    "en_C": "A junior secured interest holder는 선순위담보권의 피담보채권의 extinction으로 직접 이익을 받는 person이므로 may invoke the 소멸시효의 completion concerning the secured claim under the senior secured interest.",
+    "en_D": "In a 소송 seeking performance of the 절차 for cancellation registration of 저당권 establishment 등록, brought by a real 보증인 on the ground of the nonexistence or extinction of the 피담보채무, even if the 채권자, who is also the 저당권자, prevails by seeking a 판결 dismissing the claim and asserting the 존재 of the secured claim, the 채권자’s said act of responding to the 소송 does not constitute a \"judicial claim,\" which is a ground for interruption of prescription with respect to the 피담보채권.",
+    "en_E": "Where a 채권자 attaches or provisionally attaches the 채무자’s claim against a 제3채무자, the effect of 확정적 interruption of prescription arises with respect to the 채무자’s claim against the 제3채무자."
+  },
+  {
+    "id": 1,
+    "label": "C",
+    "en_question": "G, who 대부업을 하는, lent H 총 3억 원 in three 거래 as shown in the table below. <table border=\"1\">\n  <tr>\n    <th>대여일</th>\n    <th>원금</th>\n    <th>이자</th>\n    <th>원금 변제기</th>\n  </tr>\n  <tr>\n    <td>2018. 1. 1.</td>\n    <td>1억 원</td>\n    <td>월 1% (매월 말일 지급)</td>\n    <td>2018. 12. 31.</td>\n  </tr>\n  <tr>\n    <td>2019. 1. 1.</td>\n    <td>1억 원</td>\n    <td>월 1% (매월 말일 지급)</td>\n    <td>2019. 12. 31.</td>\n  </tr>\n  <tr>\n    <td>2020. 7. 1.</td>\n    <td>1억 원</td>\n    <td>월 1% (매월 말일 지급)</td>\n    <td>2021. 6. 30.</td>\n  </tr>\n</table> Because H has made no 변제 of the above 채무, G intends to file a 소송 on 2024. 1. 12. seeking payment of the 원금 of each loan and the 이자 or late payment damages thereon up to 2023. 12. 31. If H is expected to raise a 소멸시효 defense, what is the maximum amount of the 청구 that G can have upheld in the 소송? (However, late payment damages on accrued 이자 or late payment damages are not claimed, and it is assumed that the last day of the period is not a 토요일 or a public holiday. If there is a dispute, follow the precedents.)",
+    "en_A": "KRW 4억 7,400만 원",
+    "en_B": "KRW 3억 200만 원",
+    "en_C": "KRW 2억 8,400만 원",
+    "en_D": "KRW 2억 7,200만 원",
+    "en_E": "KRW 1억 4,200만 원"
+  },
+  {
+    "id": 2,
+    "label": "C",
+    "en_question": "G and H은 부부 and have 미성년 children J and K subject to 그들의 joint parental authority. Of the 설명 concerning this, which is 옳은가? (Each statement is 독립적이며, and if there is a dispute, follow 판례.)",
+    "en_A": "If A, G의 의사에 반함에도 불구하고, performed a 법률행위 representing J in the 공동명의 of H and G, that 법률행위 is ineffective regardless of whether the 상대방 acted in good faith.",
+    "en_B": "If J이 G과 H의 동의 없이 신용카드 use 계약 with 카드 회사 L and obtained a 카드 without the consent of G and H, and L paid the price for 물품 purchased from Q using that 카드, then after G과 H rescinded the 신용카드 use contract with L, but did not rescind the sales contract with Q and J consumed all of the purchased 물품, J does not bear an 의무 to return 부당이득 to L.",
+    "en_C": "If, at the time of the 법률행위, J merely told the 상대방 that he was an 성년자 and did not actively use 속임수, J may 취소 the above juristic 행위.",
+    "en_D": "After G의 death, H, in order to secure the 채무 of a 주식회사 of which B is the representative director, established a 근저당권 over the co-owned 재산 of H and J in the capacity of J's 법정대리인 without appointing a 특별대리인, and such act is a 이해상반행위 and therefore 무효이다.",
+    "en_E": "After G의 사망, even if H, as the legal 대표 of J and K, reaches an agreement to divide the 상속재산 so that all of it becomes K의 sole property, such 분할 by agreement is 적법."
+  },
+  {
+    "id": 3,
+    "label": "C",
+    "en_question": "G and H entered into a 파트너십 agreement under the 민법 to conduct a 비즈니스 related to 인공지능. Due to personal circumstances, H withdrew from the 파트너십. Which of the following statements concerning this are correct? (If there is a dispute, follow the 판례.) (a) A 파트너’s 임의 탈퇴 is a kind of termination of the 파트너십 계약 and must be effected by a manifestation of intention to the other 파트너s; however, such manifestation of intention may also be made 묵시적으로. (b) Because H withdrew, the 파트너십 relationship 종료되었다, and as a result the 파트너십 is naturally 해산되거나 청산된다. (c) 파트너십 재산 belonging to the 합유 of G and H, after H’s 탈퇴, belongs to G’s 단독소유. (d) H may demand from G an accounting of the 파트너십 재산 due to withdrawal, and such accounting must be based on the condition of the 파트너십 재산 at the time of H’s 탈퇴. (e) Unless there are 특별한 사정, such as a 별도 약정 regarding the method of calculating the 지분, when calculating H’s 지분, G bears the burden of proving the condition of the 파트너십 재산.",
+    "en_A": "I'm sorry, I need an English sentence and a corresponding Korean translation to create a code-switching version. Could you please provide the sentences?",
+    "en_B": "I'm sorry, I need more context to generate a code-switched version. Could you provide sentences instead of placeholders?",
+    "en_C": "I'm sorry, but it appears that the input doesn't contain a full sentence or corresponding translation. Could you please provide an English sentence and its Korean translation to proceed?",
+    "en_D": "(c), (d), (e)",
+    "en_E": "I'm sorry, there isn't enough context to provide a meaningful code-switching rewrite for the given input."
+  },
+  {
+    "id": 4,
+    "label": "C",
+    "en_question": "H, having been 위임된 권한 by G to 매도 X 토지 owned by G, 계약을 체결 with J concerning X land. Which of the 설명 is incorrect? (각 statement is 독립적이며, if there is a dispute, follow the 판례.)",
+    "en_A": "If J이 G에게 performance of the 채무를 청구하였으나, G argues that because he had not granted 대리권 to H, he is under no 채무 to perform, J must prove that H had authority to sell X 토지.",
+    "en_B": "If H이 수령한 the balance from the buyer J, then, 특별한 circumstances, J’s obligation to pay the 잔금 is 소멸한다 even if H did not remit the 잔금 to G.",
+    "en_C": "If J이 기망을 당하여 K, a third party, and 매매계약 with H, J may 매매계약 취소할 on the ground of 의사표시 induced by fraud only when H이 K’s 기망사실 안.",
+    "en_D": "If G이 주장하기를 the above 매매계약 was concluded at a 가액 markedly lower than 시장 가치 and is 무효 as an unfair 법률행위, the 궁박 requirement is determined based on G, and the 경솔/무경험 requirement is determined based on H.",
+    "en_E": "Even if 성년후견 is commenced for G after G granted 대리권 to H, H’s 대리권 does not 소멸."
+  }
+]

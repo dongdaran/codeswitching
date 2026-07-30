@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "label": "D",
+    "en_question": "Which of the following statements concerning 소멸시효 is correct? (다툼이 있는 경우 판례에 의함)",
+    "en_A": "A claim for damages arising from nonperformance of an obligation does not extinguish 함께 with the original claim even if the original 채권 is extinguished by prescription.",
+    "en_B": "The claim concerning work by a person who has undertaken a contract, to which the 3-year 단기소멸시효 applies, means only the claim for the price of the work, and the contractor’s claim for the establishment of a mortgage, as a claim incidental to that work, does not fall under a claim concerning the work of a person who has undertaken a contract.",
+    "en_C": "A junior secured interest holder is a person who directly benefits from the extinction of the 선순위담보권의 피담보채권, and therefore may invoke the completion of extinctive prescription concerning the secured claim under the senior secured interest.",
+    "en_D": "In a 소송 seeking performance of the procedure for cancellation registration of mortgage establishment registration, brought by a 물상보증인 on the ground of the nonexistence or extinction of the secured debt, even if the 채권자, who is also the mortgagee, prevails by seeking a judgment dismissing the claim and asserting the existence of the secured claim, the creditor’s said act of responding to the lawsuit does not constitute a \"judicial claim,\" which is a ground for interruption of 시효 with respect to the secured claim.",
+    "en_E": "Where a creditor attaches or provisionally attaches the debtor’s claim against a third-party obligor, the effect of 확정적 시효중단 arises with respect to the debtor’s claim against the third-party."
+  },
+  {
+    "id": 1,
+    "label": "C",
+    "en_question": "G, who operates a moneylending business, 세 차례에 걸쳐 H에게 총 KRW 300 million을 대여하였다. <table border=\"1\">\n  <tr>\n    <th>대여일</th>\n    <th>원금</th>\n    <th>이자</th>\n    <th>원금 변제기</th>\n  </tr>\n  <tr>\n    <td>2018. 1. 1.</td>\n    <td>KRW 100 million</td>\n    <td>월 1% (매월 말일 지급)</td>\n    <td>2018. 12. 31.</td>\n  </tr>\n  <tr>\n    <td>2019. 1. 1.</td>\n    <td>KRW 100 million</td>\n    <td>월 1% (매월 말일 지급)</td>\n    <td>2019. 12. 31.</td>\n  </tr>\n  <tr>\n    <td>2020. 7. 1.</td>\n    <td>KRW 100 million</td>\n    <td>월 1% (매월 말일 지급)</td>\n    <td>2021. 6. 30.</td>\n  </tr>\n</table> H이 위 채무의 변제를 전혀 하지 않아 G은 2024. 1. 12. 각 대여금의 원금 및 이자 또는 지연손해금의 지급을 구하는 소를 제기하려고 한다. H이 extinctive prescription 항변을 할 것으로 예상되는 경우, G이 소송에서 최대로 upheld받을 수 있는 청구 금액은 얼마인가? (단, 발생 이자나 지연손해금에 대한 지연손해금은 청구하지 않고, 기간의 말일은 토요일 또는 공휴일이 아니라고 가정함. 다툼이 있는 경우 판례에 의함)",
+    "en_A": "KRW 4억 7,400만 원",
+    "en_B": "KRW 3억 200만 원",
+    "en_C": "KRW 2억 8,400만 원",
+    "en_D": "KRW 2억 7,200만",
+    "en_E": "KRW 1억 4,200만"
+  },
+  {
+    "id": 2,
+    "label": "C",
+    "en_question": "G과 H은 spouses and have 미성년 children J과 K subject to their 공동친권 authority. Of the explanations concerning this, which is 옳은 것? (각 지문은 independent, and if there is a dispute, follow the 판례.)",
+    "en_A": "<Code-Switching> If G, H의 의사에 반함에도 불구하고, H과의 공동명의로 J을 대리하는 법률행위를 하였다면, 그 법률행위는 상대방의 선의 여부를 불문하고 효력이 없다.",
+    "en_B": "If J entered into a 신용카드 이용계약 with credit card company L and obtained a card without the consent of G and H, and L paid the price for goods purchased from Q using that card, then after G and H rescinded the 신용카드 이용계약 with L, but did not rescind the sales contract with Q and J consumed all of the purchased goods, J does not bear an obligation to return 부당이득 to L.",
+    "en_C": "If, at the time of the 법률행위, J merely told the other party that he was an adult and did not actively use 속임수, J may rescind the above 법률행위.",
+    "en_D": "After G의 사망, H, in order to secure the 채무담보 of a 주식회사 of which B is the 대표이사, established a 근저당권 over the 공유재산 of H and J in the capacity of J의 법정대리인 without appointing a 특별대리인, and such act is a 이해상반행위 and therefore 무효.",
+    "en_E": "G의 사망 후, H이 J과 K의 법정대리인으로서 상속재산 전부를 K의 단독소유로 하기로 협의분할 하더라도 이는 적법하다."
+  },
+  {
+    "id": 3,
+    "label": "C",
+    "en_question": "G과 H 2인은 인공지능 관련 사업을 동업하기로 하는 ｢민법｣상 조합계약을 체결하였다. 개인적인 사정으로 인해 H이 조합을 탈퇴하게 되었다. 이에 관한 설명 중 옳은 것을 모두 고른 것은? (다툼이 있는 경우 판례에 의함) (a). 조합원의 임의 탈퇴는 조합계약에 관한 일종의 해지로서 다른 조합원에 대한 의사표시로써 하여야 하는데, 그 의사표시는 묵시적으로도 할 수 있다. (b). H이 탈퇴함으로써 조합관계가 종료되고 그 결과 조합은 당연히 해산 또는 청산된다. (c). G과 H의 합유에 속한 조합재산은 H의 탈퇴 후 G의 단독소유에 속한다. (d). H은 G에 대해 탈퇴로 인한 조합재산의 계산을 요구할 수 있으며 그 계산은 H의 탈퇴 당시의 조합재산 상태에 의하여야 한다. (e). H의 지분을 계산할 때 지분을 계산하는 방법에 관해서 별도 약정이 있다는 등 특별한 사정이 없는 한 조합재산의 상태를 증명할 책임은 G에게 있다.",
+    "en_A": "(a), (b)",
+    "en_B": "(a), (b), (c)",
+    "en_C": "(a), (c), (d)",
+    "en_D": "(c), (d), (e)",
+    "en_E": "(b), (c), (d), (e)"
+  },
+  {
+    "id": 4,
+    "label": "C",
+    "en_question": "H, G으로부터 G 소유의 X 토지를 매도하는 대리권한을 받아 J과 X 토지에 대해 매매계약을 체결하였다. 이에 관한 설명 중 옳지 않은 것은? (각 지문은 독립적이며, 다툼이 있는 경우 판례에 의함)",
+    "en_A": "If J demanded performance of the obligation from G, but G argues that because he had not granted 대리권 to H, he is under no obligation to perform, J must prove that H had 권한 to sell X land.",
+    "en_B": "If H received 잔금 from the buyer J, then, absent 특별한 사정, J’s 잸금지급채무 is extinguished even if H did not remit 잸금 to G.",
+    "en_C": "If J이 K, a third party,으로부터 기망을 당하여 H과 매매계약을 체결한 경우, H이 K의 기망사실을 안 때에 한하여 J은 사기에 의한 의사표시를 이유로 매매계약을 취소할 수 있다.",
+    "en_D": "If G argues that the above sales contract was concluded at a price 현저히 lower than 시가 and is void as an unfair legal act, the distress 요건 is determined based on G, and the rashness/inexperience 요건 is determined based on H.",
+    "en_E": "Even if 성년후견 is commenced for G after G granted authority to H, H의 대리권 does not terminate."
+  }
+]

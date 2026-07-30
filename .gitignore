@@ -24,6 +24,8 @@ dist/
 *.egg-info/
 
 # Generated datasets and experiment outputs
+.hf-datasets/
+.hf-home/
 
 output/
 outputs/
@@ -40,4 +42,3 @@ results/
 *.swo
 .DS_Store
 Thumbs.db
-
